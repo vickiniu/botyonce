@@ -2,7 +2,7 @@
   "name": "slackbot",
   "version": "0.0.0",
   "private": true,
-  "author": "User <user@example.com>",
+  "author": "Vicki Niu <vicki.niu@gmail.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.13.2",
